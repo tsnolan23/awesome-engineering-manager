@@ -21,3 +21,4 @@ A list of resources relevant to engineering management.
 
 - [Communication Guidelines](https://basecamp.com/guides/how-we-communicate) by Basecamp
 - [Group Chat: The Best Way to Totally Stress Out Your Team](https://basecamp.com/guides/group-chat-problems) by Basecamp
+- [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
