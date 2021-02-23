@@ -12,7 +12,6 @@ A list of resources relevant to engineering management.
 
 - [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) by Basecamp
 - [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) by Basecamp
-- [Rework](https://basecamp.com/books/rework) by Basecamp
 - [Remote: Office Not Required](https://basecamp.com/books/remote) by Basecamp
 - [Measure What Matters](https://www.whatmatters.com/the-book/) by John Doerr
 - [The Making of Manager](https://www.juliezhuo.com/book/manager.html) by Julie Zhuo
