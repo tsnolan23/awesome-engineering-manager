@@ -11,12 +11,12 @@ A list of resources relevant to engineering management.
 ## Books
 
 - [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) by Basecamp
-- [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) by Basecamp
-- [Remote: Office Not Required](https://basecamp.com/books/remote) by Basecamp
 - [Measure What Matters](https://www.whatmatters.com/the-book/) by John Doerr
+- [I am a Software Engineer and I am in Charge](https://leanpub.com/iamincharge/c/jd-affiliate) by Alexis Monville and Michael Doyle
 - [The Making of Manager](https://www.juliezhuo.com/book/manager.html) by Julie Zhuo
 - [Radical Candor](https://www.radicalcandor.com/the-book/) by Kim Scott
-- [I am a Software Engineer and I am in Charge](https://leanpub.com/iamincharge/c/jd-affiliate) by Alexis Monville and Michael Doyle
+- [Remote: Office Not Required](https://basecamp.com/books/remote) by Basecamp
+- [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) by Basecamp
 
 ## Articles and Posts
 
@@ -24,6 +24,7 @@ A list of resources relevant to engineering management.
 - [Group Chat: The Best Way to Totally Stress Out Your Team](https://basecamp.com/guides/group-chat-problems) by Basecamp
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 - [How to build social connections on a remote team](https://m.signalvnoise.com/how-to-build-social-connection-in-a-remote-team/) by Claire Lew
+- [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) by Sarah Drasner
 
 ## Videos
 
