@@ -27,7 +27,7 @@ A list of resources relevant to engineering management.
 - [How to build social connections on a remote team](https://m.signalvnoise.com/how-to-build-social-connection-in-a-remote-team/) by Claire Lew
 - [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) by Sarah Drasner
 - [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) by Mark Rabkin
-- [Leading your engineering team through an unexpected product pivot Technical decision making](https://leaddev.com/technical-decision-making/leading-your-engineering-team-through-unexpected-product-pivot) by Najla Elmachtoub
+- [Leading your engineering team through an unexpected product pivot](https://leaddev.com/technical-decision-making/leading-your-engineering-team-through-unexpected-product-pivot) by Najla Elmachtoub
 - [The 5 Common Mistakes Of New Engineering Managers](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/) by Csaba Okrona
 
 ## Videos
