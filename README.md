@@ -18,6 +18,7 @@ A list of resources relevant to engineering management.
 - [Remote: Office Not Required](https://basecamp.com/books/remote) by Basecamp
 - [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) by Basecamp
 - [It's the Manager](https://www.gallup.com/itsthemanager/) by Jim Clifton and Jim Harter
+- [Humor, Seriously](https://www.humorseriously.com/) by Dr. Jennifer Aaker and Naomi Bagdonas
 
 ## Articles and Posts
 
