@@ -31,6 +31,7 @@ A list of resources relevant to engineering management.
 - [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) by Mark Rabkin
 - [Leading your engineering team through an unexpected product pivot](https://leaddev.com/technical-decision-making/leading-your-engineering-team-through-unexpected-product-pivot) by Najla Elmachtoub
 - [The 5 Common Mistakes Of New Engineering Managers](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/) by Csaba Okrona
+- [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers)
 
 ## Videos
 
