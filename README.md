@@ -20,6 +20,7 @@ A list of resources relevant to engineering management.
 - [It's the Manager](https://www.gallup.com/itsthemanager/) by Jim Clifton and Jim Harter
 - [Humor, Seriously](https://www.humorseriously.com/) by Dr. Jennifer Aaker and Naomi Bagdonas
 - [No Rules Rules](https://www.norulesrules.com/) by Erin Meyer and Reed Hastings
+- Crucial Conversations by Patterson, Grenny, McMillan, Switzler, and Covey
 
 ## Articles and Posts
 
