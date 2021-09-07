@@ -22,6 +22,7 @@ A list of resources relevant to engineering management.
 - [No Rules Rules](https://www.norulesrules.com/) by Erin Meyer and Reed Hastings
 - Crucial Conversations by Patterson, Grenny, McMillan, Switzler, and Covey
 - Never Split the Difference by Chris Voss
+- [An Elegant Puzzle: Systems of Engineering Management](https://lethain.com/elegant-puzzle/) by Will Larson
 
 ## Articles and Posts
 
