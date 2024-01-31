@@ -24,7 +24,7 @@ A list of resources relevant to engineering management.
 - Never Split the Difference by Chris Voss
 - [An Elegant Puzzle: Systems of Engineering Management](https://lethain.com/elegant-puzzle/) by Will Larson
 
-## Articles and Posts
+## Articles, Posts, and Guides
 
 - [Communication Guidelines](https://basecamp.com/guides/how-we-communicate) by Basecamp
 - [Group Chat: The Best Way to Totally Stress Out Your Team](https://basecamp.com/guides/group-chat-problems) by Basecamp
@@ -35,6 +35,9 @@ A list of resources relevant to engineering management.
 - [Leading your engineering team through an unexpected product pivot](https://leaddev.com/technical-decision-making/leading-your-engineering-team-through-unexpected-product-pivot) by Najla Elmachtoub
 - [The 5 Common Mistakes Of New Engineering Managers](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/) by Csaba Okrona
 - [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers)
+- [The ultimate guide to remote work](https://zapier.com/resources/guides/remote-work) by Zapier
+- [Efficient Remote Work for Tech Teams](https://newsletter.pragmaticengineer.com/p/efficient-remote-work) by James Stanier
+- [How to embrace asynchronous communication for remote work](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/) by GitLab
 
 ## Videos
 
