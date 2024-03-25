@@ -38,6 +38,7 @@ A list of resources relevant to engineering management.
 - [The ultimate guide to remote work](https://zapier.com/resources/guides/remote-work) by Zapier
 - [Efficient Remote Work for Tech Teams](https://newsletter.pragmaticengineer.com/p/efficient-remote-work) by James Stanier
 - [How to embrace asynchronous communication for remote work](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/) by GitLab
+- [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124) by Nicole Forsgren, Margaret-Anne Storey, Chandra Maddila, Thomas Zimmermann, Brian Houck, and Jenna Butler
 
 ## Videos
 
