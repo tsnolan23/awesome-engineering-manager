@@ -1,6 +1,6 @@
 # Awesome Engineering Manager
 
-A list of resources relevant to engineering management.
+A list of resources relevant to engineering management, resources to share with your engineers, etc.
 
 ## Table of Contents
 
@@ -39,6 +39,17 @@ A list of resources relevant to engineering management.
 - [Efficient Remote Work for Tech Teams](https://newsletter.pragmaticengineer.com/p/efficient-remote-work) by James Stanier
 - [How to embrace asynchronous communication for remote work](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/) by GitLab
 - [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124) by Nicole Forsgren, Margaret-Anne Storey, Chandra Maddila, Thomas Zimmermann, Brian Houck, and Jenna Butler
+
+## Newsletters
+
+- [ByteByteGo](https://blog.bytebytego.com/)
+- [Craft Better Software](https://craftbettersoftware.com/)
+- [Engineering Leadership](https://newsletter.eng-leadership.com/)
+- [High Growth Engineer](https://read.highgrowthengineer.com/)
+- [The Polymathic Engineer](https://newsletter.francofernando.com/)
+- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
+- [The Software Engineering Times](https://thesoftwareengineeringtimes.substack.com/)
+- [Tidy First](https://tidyfirst.substack.com/)
 
 ## Videos
 
